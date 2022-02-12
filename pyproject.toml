@@ -2,7 +2,7 @@
 name = "django-react-tailwindcss"
 version = "0.2.0"
 description = ""
-authors = ["João Vítor Carli <jvitor.carli@tutamail.com>"]
+authors = ["Ivan Khludov <ivan.khludov.dev@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
